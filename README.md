@@ -109,11 +109,11 @@ Dropbox -> ext.hd_backup: backup
 
 </details>
 
-![svg_android_studio](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/development_environment/raw/main/images/svg_android_studio.svg)
+![svg_android_studio](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/github_dropbox_external_drive/raw/main/images/svg_android_studio.svg)
 
 [//]: # (auto_plantuml end)
 
-These are usually small files and having them go up and down the internet 4 times is not a tragedy. Sure, I could save some time, copying them from one folder to the other locally. Then the sync will just index the files and not send them over the internet.  
+These are usually small files and having them go up and down the internet 4 times is not a tragedy. Sure, I could save some time, by copying them from one folder to the other locally. Then the sync will just index the files and not send them over the internet.  
 
 ## Open-source and free as a beer
 
