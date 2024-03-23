@@ -89,6 +89,32 @@ Dropbox -> ext.hd_backup: backup
 
 [//]: # (auto_plantuml end)
 
+## Android Studio
+
+When I want to make an app for Android I have to use Android Studio in Win10. All the files are pushed to GitHub. From there they are automatically synced with github_backup. The complete diagram:
+
+[//]: # (auto_plantuml start)
+<!-- markdownlint-disable MD033 -->
+<details><summary>plantuml code:</summary>
+<!-- markdownlint-enable MD033 -->
+
+```plantuml
+@startuml
+android_studio -> GitHub: push
+GitHub -> github_backup: pull
+github_backup -> Dropbox: automatic sync
+Dropbox -> ext.hd_backup: backup    
+@enduml
+```
+
+</details>
+
+![svg_android_studio](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/development_environment/raw/main/images/svg_android_studio.svg)
+
+[//]: # (auto_plantuml end)
+
+These are usually small files and having them go up and down the internet 4 times is not a tragedy. Sure, I could save some time, copying them from one folder to the other locally. Then the sync will just index the files and not send them over the internet.  
+
 ## Open-source and free as a beer
 
 My open-source projects are free as a beer (MIT license).  
