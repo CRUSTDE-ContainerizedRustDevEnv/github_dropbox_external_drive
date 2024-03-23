@@ -68,7 +68,11 @@ GitHub -> github_backup: clone, pull
 ## Dropbox
 
 I have a 2TB storage on Dropbox for 12€/month. It is not cheap, but I had bad experiences with GoogleDrive and OneDrive in the early days. Maybe they are better now, but I don't want to retry everything. I am a paying customer, so I expect some responsibility from Dropbox. Maybe I am just delusional. They can go bankrupt in a matter of hours with modern financial games.  
-I am putting all my eggs in the basket of Dropbox, but eventually, I make backups of all these files. I make backups on 2 external hard drives and I keep them in separate houses. Just for fun.  
+
+## External drives
+
+I cannot put all my eggs in the basket of Dropbox.  
+Eventually, I make backups of all these files. I make backups on 2 external hard drives and I keep them in separate locations. Just for fun.  
 I use my app [dropbox_backup_to_external_disk](https://github.com/bestia-dev/dropbox_backup_to_external_disk) to make backups of Dropbox, because Dropbox does not have an app for that. Shame on them.
 
 [//]: # (auto_plantuml start)
