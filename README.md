@@ -4,7 +4,7 @@
 ***version: 2022.421.1347 date: 2022-05-12 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-Containerized-Rust-Dev-Env/github_dropbox_external_drive)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
- ![github_dropbox_external_drive](https://bestia.dev/webpage_hit_counter/get_svg_image/641758399.svg)
+ ![github_dropbox_external_drive](https://bestia.dev/webpage_hit_counter/get_svg_image/1662259186.svg)
 
 **WARNING !!! This is a public repository: never write or save secrets here!!!**
 
