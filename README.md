@@ -1,15 +1,15 @@
 # github_dropbox_external_drive
 
 **File Workflow for backups for CRUSTDE**  
-***version: 2022.421.1347 date: 2022-05-12 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/github_dropbox_external_drive)***  
+***version: 2022.421.1347 date: 2022-05-12 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![github_dropbox_external_drive](https://bestia.dev/webpage_hit_counter/get_svg_image/1662259186.svg)
 
 **WARNING !!! This is a public repository: never write or save secrets here!!!**
 
- ![logo](https://raw.githubusercontent.com/CRUSTDE-Containerized-Rust-DevEnv/CRUSTDE-Containerized-Rust-DevEnv/main/images/crustde_250x250.png)
- github_dropbox_external_drive is a member of the [CRUSTDE-Containerized-Rust-DevEnv](https://github.com/orgs/CRUSTDE-Containerized-Rust-DevEnv/repositories?q=sort%3Aname-asc) project.
+ ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE-ContainerizedRustDevEnv/main/images/crustde_250x250.png)
+ github_dropbox_external_drive is a member of the [CRUSTDE-ContainerizedRustDevEnv](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) project.
 
 Hashtags: #rustlang #tutorial #buildtool #developmenttool  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
@@ -19,7 +19,7 @@ My projects on GitHub are more like a tutorial than a finished product: [bestia-
 These days I mostly program with Rust on Linux.  
 My primary desktop is Win10. Inside it I have WSL2, which is a Linux Virtual Machine. There I installed Debian 12 Bookworm. And now I can use a Linux container with Podman. 
 
-I use `CRUSTDE - Containerized Rust Development Environment` described here <https://github.com/CRUSTDE-Containerized-Rust-DevEnv/crustde_cnt_img_pod>.  
+I use `CRUSTDE - Containerized Rust Development Environment` described here <https://github.com/CRUSTDE-ContainerizedRustDevEnv/crustde_cnt_img_pod>.  
 This CRUSTDE container is ephemeral and can be destroyed at any time. The important files inside it must be pushed to GitHub, or else they will be destroyed with the CRUSTDE container.  
 
 [//]: # (auto_plantuml start)
@@ -36,7 +36,7 @@ CRUSTDE -> GitHub: push
 
 </details>
 
-![svg_github_container](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/github_dropbox_external_drive/raw/main/images/svg_github_container.svg)
+![svg_github_container](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive/raw/main/images/svg_github_container.svg)
 
 [//]: # (auto_plantuml end)
 
@@ -61,7 +61,7 @@ GitHub -> github_backup: clone, pull
 
 </details>
 
-![svg_github_backup](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/github_dropbox_external_drive/raw/main/images/svg_github_backup.svg)
+![svg_github_backup](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive/raw/main/images/svg_github_backup.svg)
 
 [//]: # (auto_plantuml end)
 
@@ -89,7 +89,7 @@ Dropbox -> ext.hd_backup: backup
 
 </details>
 
-![svg_dropbox](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/github_dropbox_external_drive/raw/main/images/svg_dropbox.svg)
+![svg_dropbox](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive/raw/main/images/svg_dropbox.svg)
 
 [//]: # (auto_plantuml end)
 
@@ -113,7 +113,7 @@ Dropbox -> ext.hd_backup: backup
 
 </details>
 
-![svg_android_studio](https://github.com/CRUSTDE-Containerized-Rust-DevEnv/github_dropbox_external_drive/raw/main/images/svg_android_studio.svg)
+![svg_android_studio](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive/raw/main/images/svg_android_studio.svg)
 
 [//]: # (auto_plantuml end)
 
