@@ -1,12 +1,10 @@
 # github_dropbox_external_drive
 
 **File Workflow for backups for CRUSTDE**  
-***version: 2022.421.1347 date: 2022-05-12 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive)***  
+***version: 2024.326.1347 date: 2024-03-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![github_dropbox_external_drive](https://bestia.dev/webpage_hit_counter/get_svg_image/1662259186.svg)
-
-**WARNING !!! This is a public repository: never write or save secrets here!!!**
 
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
  github_dropbox_external_drive is a member of the [CRUSTDE-ContainerizedRustDevEnv](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) project.
