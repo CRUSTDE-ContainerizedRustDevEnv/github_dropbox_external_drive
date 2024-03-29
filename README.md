@@ -9,6 +9,9 @@
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
  github_dropbox_external_drive is a member of the [CRUSTDE-ContainerizedRustDevEnv](https://github.com/orgs/CRUSTDE-ContainerizedRustDevEnv/repositories?q=sort%3Aname-asc) project.
 
+ [![Lines in md](https://img.shields.io/badge/Lines_in_markdown-136-green.svg)](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive
+)
+
 Hashtags: #rustlang #tutorial #buildtool #developmenttool  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
 
