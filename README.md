@@ -4,6 +4,7 @@
 ***version: 2024.326.1347 date: 2024-03-26 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/CRUSTDE-ContainerizedRustDevEnv/github_dropbox_external_drive)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
  ![github_dropbox_external_drive](https://bestia.dev/webpage_hit_counter/get_svg_image/1662259186.svg)
 
  ![logo](https://raw.githubusercontent.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv/main/images/crustde_250x250.png)
